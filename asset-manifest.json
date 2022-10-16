@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/datapullwork/static/css/main.8678e65f.css",
+    "main.js": "/datapullwork/static/js/main.05b29f73.js",
+    "index.html": "/datapullwork/index.html",
+    "main.8678e65f.css.map": "/datapullwork/static/css/main.8678e65f.css.map",
+    "main.05b29f73.js.map": "/datapullwork/static/js/main.05b29f73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8678e65f.css",
+    "static/js/main.05b29f73.js"
+  ]
+}
