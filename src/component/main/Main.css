@@ -1,0 +1,24 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+.card {
+  border: 1px solid red;
+  border-radius: 10px;
+  background-color: aqua;
+  width: 20rem;
+  height: 40rem;
+  text-align: center;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+p {
+  text-align: justify;
+}

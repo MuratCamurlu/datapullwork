@@ -1,0 +1,19 @@
+.navbar {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  background-color: darkblue;
+  color: white;
+}
+li {
+  /* border: 1px solid red; */
+  list-style-type: none;
+  height: 2rem;
+  padding: 1rem;
+}
+li:hover {
+  background-color: antiquewhite;
+  color: black;
+}

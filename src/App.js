@@ -1,8 +1,11 @@
+import Main from "./component/main/Main";
+import Navbar from "./component/navbar/Navbar";
+
 function App() {
   return (
     <div>
-      <h1>Hello React</h1>
-      <h2>VSCODE</h2>
+      <Navbar />
+      <Main />
     </div>
   );
 }
